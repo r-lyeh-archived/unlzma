@@ -11,7 +11,7 @@ UNLZMA is a very compact LZMA decoder (C++03).
 - [x] Public domain.
 
 ## Cons
-- [ ] Four times slower than official LZMA SDK [(see wikipedia entry).](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
+- [ ] Four times slower than [official LZMA SDK](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm).
 - [ ] Uncommon LZMA streams with props.lp flag <> 0 are not supported.
 
 ## Public API
